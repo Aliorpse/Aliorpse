@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm a simple high school student.<br/>
 Mainly using JavaScript/TypeScript, coding for fun.
+[![Aliorpse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliorpse)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
 [![wakatime](https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg)](https://wakatime.com/@cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760)<br/>
