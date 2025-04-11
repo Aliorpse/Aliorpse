@@ -17,6 +17,6 @@
   <hr>
   <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true&card_width=380">
   <img src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350"><br>
-  <img src="https://github.com/Aliorpse/Aliorpse/blob/main/metrics-languages.svg">
+  <img src="https://repobeats.axiom.co/api/embed/6564a7baa9e0ebccdc55a30d3d824029517afe5b.svg">
 </div>
 
