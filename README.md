@@ -13,7 +13,7 @@
   
 
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117">
-  <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true"><br>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117">
+  <img align="left" src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true"><br>
 </div>
 
