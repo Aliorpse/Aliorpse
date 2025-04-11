@@ -28,7 +28,6 @@ jobs:
           plugin_languages_aliases: true
           plugin_languages_threshold: 0.3%
           plugin_languages_categories: programming, markup
-          plugin_languages_repositories: all
           # 关闭其他插件
           plugin_activity: no
           plugin_habits: no
