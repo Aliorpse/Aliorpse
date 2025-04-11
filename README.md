@@ -14,6 +14,6 @@
 
   <hr>
   <img align="right" src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true&card_width=380">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=380">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350">
 </div>
 
