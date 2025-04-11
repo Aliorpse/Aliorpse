@@ -14,8 +14,10 @@
 
   <hr>
   <div style="display: flex; justify-content: space-between; width: 100%; padding: 0; margin: 0">
-    <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true" style="margin: 0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" style="margin: 0">
+    <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true" 
+         style="margin: 0; max-width: 45%; height: auto">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117" 
+         style="margin: 0; max-width: 50%; height: auto">
   </div>
 </div>
 
