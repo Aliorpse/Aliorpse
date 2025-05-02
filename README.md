@@ -9,7 +9,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aliorpse/Aliorpse/output/snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aliorpse/Aliorpse/output/snake.svg" />
   </picture><br> -->
-  <img src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080"><br>
+  <img src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220"><br>
   <img src="https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg"><br>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
