@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- typing svg -->
-  <div>
-    <a href="https://git.io/typing-svg"><img
-        src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&size=27&lines=立春天，风渐暖，伊人一去不复还。"
-        alt="Typing SVG" /></a>
-  </div>
+  <!-- banner -->
+  <a href="https://github.com/iwangbowen">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=200&section=header&text=Aliorpse&desc=Full-Stack%20Developer%20%7C%20Vue.js%20Newbie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50" width="100%" alt="Profile Banner" />
+  </a>
+  <!-- ANIMATED TYPING TEXT -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=600&lines=立春天，风渐暖，伊人一去不复返" alt="Typing SVG" />
   <!-- snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aliorpse/Aliorpse/output/snake-dark.svg" />
