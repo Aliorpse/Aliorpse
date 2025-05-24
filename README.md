@@ -12,9 +12,15 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aliorpse/Aliorpse/output/snake.svg" />
   </picture><br>
   <!-- badge -->
-  <img src="https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg"><br>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript">
+    <!-- waka -->
+    <img src="https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg"><br>
+    <!-- editors -->
+    <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square">
+    <img src="https://img.shields.io/badge/Editor-JetBrains-FF7F0E?style=flat-square"><br>
+    <!-- languages -->
+    <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-Rust-CE422B?style=flat-square&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <hr>
   <!-- stats -->
   <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true&card_width=380">
