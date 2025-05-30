@@ -3,7 +3,7 @@
   <a href="https://github.com/iwangbowen">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=200&section=header&text=Aliorpse&desc=Full-Stack%20Developer%20%7C%20Vue.js%20Newbie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50" width="100%" alt="Profile Banner" />
   </a>
-  <!-- ANIMATED TYPING TEXT -->
+  <!-- typing text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&color=41B883&center=true&vCenter=true&random=false&width=600&lines=立春天，风渐暖，伊人一去不复返" alt="Typing SVG" />
   <!-- snake -->
   <picture>
@@ -24,7 +24,17 @@
   <hr>
   <!-- stats -->
   <img src="https://streak-stats.demolab.com/?user=Aliorpse&theme=cobalt&hide_border=true&card_width=380">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350"><hr>
-  <img src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220"><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=0366d6&card_width=350" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
+  </picture>
+  <hr>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220&bgColor=ffffff&textColor1=24292e&textColor2=586069&titleColor=0366d6&statsBgColor=f6f8fa&progressColor1=0366d6&progressColor2=79b8ff&progressBgColor=e1e4e8" />
+    <img alt="Steam Visual Novels" src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220" />
+  </picture><br>
+  
 </div>
 
