@@ -35,6 +35,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220&bgColor=ffffff&textColor1=24292e&textColor2=586069&titleColor=0366d6&statsBgColor=f6f8fa&progressColor1=0366d6&progressColor2=79b8ff&progressBgColor=e1e4e8" />
     <img alt="Steam Visual Novels" src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220" />
   </picture><br>
-  
 </div>
 
