@@ -23,7 +23,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=0366d6&card_width=350" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
   </picture>
-  <hr>
-  <img src="https://api.aliorpse.tech/steam/user_visual_novels_info?steamId=76561199574367385&type=svg&pinned=2704110,1567800,1230140,2873080,897220" />
 </div>
 
