@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square">
     <img src="https://img.shields.io/badge/Editor-JetBrains-FF7F0E?style=flat-square"><br>
     <!-- languages -->
-    <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Code-Node.js-F7DF1E?style=flat-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Code-Rust-CE422B?style=flat-square&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <hr>
