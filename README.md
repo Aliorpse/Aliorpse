@@ -23,5 +23,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=0366d6&card_width=350" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
   </picture>
+  <hr>
+  <img src="https://api.aliorpse.tech/steam/galgame/user/76561199574367385/card?theme=dark&cardBg=0C1118">
 </div>
 
