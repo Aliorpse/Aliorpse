@@ -8,9 +8,6 @@
   <!-- badge -->
     <!-- waka -->
     <img src="https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg"><br>
-    <!-- editors -->
-    <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square">
-    <img src="https://img.shields.io/badge/Editor-JetBrains-FF7F0E?style=flat-square"><br>
     <!-- languages -->
     <img src="https://img.shields.io/badge/Code-Node.js-F7DF1E?style=flat-square&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Code-Rust-CE422B?style=flat-square&logo=rust&logoColor=white">
