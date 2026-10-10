@@ -21,10 +21,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=586069&icon_color=0366d6&card_width=350" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aliorpse&show_icons=true&theme=cobalt&hide_border=true&bg_color=0D1117&card_width=350" />
   </picture>
-
-  <br><br>
-  
-  <a href="https://gitroll.io/profile/uEsPZT4674zWfgbWsDi7Gz6hzIxK2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uEsPZT4674zWfgbWsDi7Gz6hzIxK2?theme=dracula" alt="GitRoll Profile Badge" />
   </a>
 </div>
