@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760.svg)](https://wakatime.com/@cb6fb72d-2af0-4b6e-b6f5-5a9e4c7d1760)
+
 I'm Aliorpse, a student majoring in Computer Science at [UNM](https://www.nottingham.edu.my/).
 
 [Kotlin](https://kotlinlang.org/) is the language I know best, and I love its concise design. But its
-creators don't seem determined to free it from the JVM. So I'm exploring [Rust](https://rust-lang.org/). 
+creators don't seem determined to free it from the JVM, so I'm exploring [Rust](https://rust-lang.org/). 
 Its zero-cost abstractions convinced me that a language needn't trade expressiveness for performance —
 and that writing systems code can be genuinely enjoyable. More broadly, I've long felt that a language
 being "positioned" is a failure of design.
